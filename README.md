@@ -24,6 +24,13 @@ cd min_aml
 poetry update
 ```
 
+Then run JupyterLab and navigate to the `demo.ipynmb` notebook to view
+the datasets:
+
+```bash
+poetry run jupyter lab
+```
+
 
 ## Reference
 
